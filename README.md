@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/paulojosep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulojosep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojosep&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <h2>Linguagens/Tecnologias usadas</h2>
